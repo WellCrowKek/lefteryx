@@ -1,3 +1,5 @@
+# NEW ACCOUNT: [@LEFTERYX](https://github.com/lefteryx)
+
 Hi! I'm Yatharth Singh (often known as _lefteryx_ on the internet), a CS Freshman at BITS Pilani, Pilani Campus.
 
 I just waste a lot of time on the internet and can follow instructions (which I've been told is the _Sigma Developer Grindset_).
